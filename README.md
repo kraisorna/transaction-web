@@ -1,3 +1,8 @@
+Improvement Plan:
+Implement testing projects
+Organise data access logic in Web API controller to service project
+Show validation messages errors on web
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
@@ -18,10 +23,6 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 6. Go back to the **Source** page.
 
 ---
-Improvement Plan:
-Implement testing projects
-Organise data access logic in Web API controller to service project
-Show validation messages errors on web
 
 ## Create a file
 
