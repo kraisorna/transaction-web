@@ -1,7 +1,7 @@
-Improvement Plan:
-Implement testing projects
-Organise data access logic in Web API controller to service project
-Show validation messages errors on web
+## Improvement Plan:
+Implement testing projects.
+Organise data access logic in Web API controller to service project.
+Show validation messages errors on web.
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
